@@ -18,3 +18,5 @@ Here's the resources I used:
 - Themes: [Adding a Theme to your GitHub Pages Site Using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 
 Notably the DNS changes took quite some time to kick in. I started this "yesterday" (relative, I know) and the DNS checker on the pages site didn't acknowledge the changes were correct until "today". But it works out in the end!
+
+Every page update can take some time (I think GitHub says 15-30 minutes) for their systems to build the new site and push it to their servers, but it's free and relatively easy to do!
